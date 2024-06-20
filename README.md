@@ -6,7 +6,7 @@ This project is a sports analytics ETL (Extract, Transform, Load) pipeline desig
 
 ## Architecture Flow Diagram
 
-![ETL Project Architecture Flow](https://github.com/mayurdalvi5/ETL--Sport-Analytics---Mini-Project/ETL Project Architecture Flow.png/)
+![ETL Project Architecture Flow](ETL%20Project%20Architecture%20Flow.png)
 
 ## Directory Structure
 
